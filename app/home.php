@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -5,13 +6,28 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>yourname.</title>
+    <title>dharmendraShah.</title>
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
     <link href="https://fonts.googleapis.com/css?family=Comfortaa:700" rel="stylesheet">
-    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
-        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css"
-        integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
     <link rel="stylesheet" href="index.css">
 </head>
 
@@ -32,7 +48,7 @@
     <a id="work" onclick="showwork()" class="animated fadeIn" style="animation-delay:2.2s;">work</a>
     <a id="contact" onclick="showcontact()" class="animated fadeIn" style="animation-delay:2.2s;">contact</a>
     <div id="middle" class="animated slideInDown" style="animation-delay:2.0s;">
-        <h1>Dharmendra Shah</h1>
+        <h1 style="word-wrap: break-word">dharmendraShah.</h1>
         <h2>Software Developer / UI/UX Designer / Human</h2>
         <div id="menu">
             <a onclick="showabout()">about</a>
@@ -41,14 +57,9 @@
         </div>
         <table>
             <tr>
-                <td class="animated zoomIn" style="animation-delay:2.2s;"><a class="social"><i
-                            class="fab fa-facebook"></i></a></td>
-                <td class="animated zoomIn" style="animation-delay:2.4s;"><a class="social"><i
-                            class="fab fa-twitter"></i></a></td>
-                <td class="animated zoomIn" style="animation-delay:2.6s;"><a class="social"><i
-                            class="fab fa-instagram"></i></a></td>
-                <td class="animated zoomIn" style="animation-delay:2.8s;"><a class="social"><i
-                            class="fab fa-dribbble"></i></a></td>
+                <td class="animated zoomIn" style="animation-delay:2.2s;"><a class="social" href="@dharmonly"><i class="fab fa-facebook"></i></a></td>
+                <td class="animated zoomIn" style="animation-delay:2.4s;"><a class="social" href="@dharmonly"><i class="fab fa-twitter"></i></a></td>
+                <td class="animated zoomIn" style="animation-delay:2.6s;"><a class="social" href="https://instagram.com/dharm.endra_shah"><i class="fab fa-instagram"></i></a></td>
             </tr>
         </table>
     </div>
@@ -56,14 +67,11 @@
         <div onclick="closework()"><i class="fas fa-angle-right"></i></div>
         <h1>works.</h1>
         <section>
-            <h2>work title</h2>
+            <h2>Leading Software Developer</h2>
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-                deserunt mollit anim id est laborum.
+                I have worked on many projects for my clients and personnel use. Making website more responsive and fast and also with mobile applications but i need more people and resource to fullfill the requirements of my own. I had created many links for my personnel uses and and also for my customer for me my clients are primary and other things are secondary.
             </p>
+            <!--
             <div id="used">
                 <div><i class="fas fa-circle"></i>&nbsp;HTML5</div>
                 <div><i class="fas fa-circle"></i>&nbsp;CSS3</div>
@@ -72,6 +80,7 @@
             <button class="btn_one">button 1</button>
             <button class="btn_two">button 2</button>
         </section>
+-->
     </div>
     <div id="about_container" class="container">
         <div onclick="closeabout()"><i class="fas fa-angle-left"></i></div>
@@ -92,8 +101,8 @@
         <section>
             <h2>skills</h2>
             <p>
-                CSS, JavaScript, SEO Handing, PHP, Node.js, Angular.js, Laravel, Bootstrap, Wordpress, JAVA, C++, C--,
-                C#, C, Flutter and Vue.js.
+                CSS, JavaScript, Python, SEO Handing, PHP, Node.js, Angular.js, Laravel, Bootstrap, Wordpress, JAVA, C++, C--,
+                C#, C, Flutter, Vue.js and still learning many other languages too for easy work.
             </p>
         </section>
     </div>
@@ -103,11 +112,11 @@
         <section>
             <h2>contact me</h2>
             <p>
-                <form name="contact" method="post" action="/mail.html">
-                    <input name="name" type="text" placeholder="name" required>
-                    <input name="email" type="email" placeholder="email" required><br>
-                    <input name="Phone" type="number" placeholder="Phone No." required><br>
-                    <textarea name="message" placeholder="your message" required rows="5"></textarea><br>
+                <form name="contact" method="post" action="/contact">
+                    <input name="name" type="text" placeholder="Name" required>
+                    <input name="email" type="email" placeholder="Email" required><br>
+                    <input class="special" name="Phone" type="number" placeholder="Phone No." required><br>
+                    <textarea name="message" placeholder="Your message" required rows="5"></textarea><br>
                     <button type="submit" name="submit" class="btn_one">send</button>
                 </form>
             </p>
@@ -116,7 +125,6 @@
     <script src="index.js" type="text/javascript"></script>
     <script src="particles.js"></script>
     <script src="app.js"></script>
-    <script src="https://smtpjs.com/v3/smtp.js"></script>
     <script>
     </script>
 </body>

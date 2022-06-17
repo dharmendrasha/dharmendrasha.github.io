@@ -1,0 +1,77 @@
+{
+    "1": {
+        "title": "SEO Handling",
+        "i": "SEO is an acronym that stands for search engine optimization, which is the process of optimizing your website to get organic, or un-paid, traffic from the search engine results page.",
+        "img": "/skills/seo.png"
+    },
+    "2": {
+        "title": "CSS",
+        "i": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
+        "img": "/skills/css.png"
+    },
+    "3": {
+        "title": "javascript",
+        "i": "JavaScript is a client-side scripting language, which means the source code is processed by the client's web browser rather than on the web server. This means JavaScript functions can run after a webpage has loaded without communicating with the server. For example, a JavaScript function may check a web form before it is submitted to make sure all the required fields have been filled out. The JavaScript code can produce an error message before any information is actually transmitted to the server.",
+        "img": "/skills/js.png"
+    },
+    "4": {
+        "title": "PHP",
+        "i": "PHP is a general-purpose programming language originally designed for web development. It was originally created by Rasmus Lerdorf in 1994; the PHP reference implementation is now produced by The PHP Group.",
+        "img": "/skills/php.png"
+    },
+    "5": {
+        "title": "Node.js",
+        "i": "Node.js (Node) is an open source development platform for executing JavaScript code server-side. Node is useful for developing applications that require a persistent connection from the browser to the server and is often used for real-time applications such as chat, news feeds and web push notifications.",
+        "img": "/skills/node.js.png"
+    },
+    "6": {
+        "title": "angular.js",
+        "i": "Scope in AngularJS. The $scope in an AngularJS is a built-in object, which contains application data and methods. You can create properties to a $scope object inside a controller function and assign a value or function to it. The $scope is glue between a controller and view (HTML).",
+        "img": "/skills/angular.png"
+    },
+    "7": {
+        "title": "Laravel",
+        "i": "Laravel is a web application framework with expressive, elegant syntax. ... Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching.",
+        "img": "/skills/laravel.png"
+    },
+    "8": {
+        "title": "Bootstrap",
+        "i": "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and (optionally) JavaScript-based design templates for typography, forms, buttons, navigation and other interface components.",
+        "img": "/skills/bootstrap.png"
+    },
+    "9": {
+        "title": "Wordpress",
+        "i": "WordPress is a free content management system used to build and maintain websites. Its ease of use and unique blogging features have helped it become the most popular blogging tool on the web. WordPress provides a web-based user interface for designing, publishing, and updating websites.",
+        "img": "/skills/bootstrap.png"
+    },
+    "10": {
+        "title": "JAVA",
+        "i": "Java is a high-level programming language developed by Sun Microsystems. ... The Java syntax is similar to C++, but is strictly an object-oriented programming language. For example, most Java programs contain classes, which are used to define objects, and methods, which are assigned to individual classes.",
+        "img": "/skills/java.png"
+    },
+    "11": {
+        "title": "C++",
+        "i": "C++ is a high-level programming language developed by Bjarne Stroustrup at Bell Labs. C++ adds object-oriented features to its predecessor, C. C++ is one of the most popular programming language for graphical applications, such as those that run in Windows and Macintosh environments.",
+        "img": "/skills/c++.png"
+    },
+    "12": {
+        "title": "C#",
+        "i": "C# (pronounced 'C-sharp') is an object-oriented programming language from Microsoft that aims to combine the computing power of C++ with the programming ease of Visual Basic. C# is based on C++ and contains features similar to those of Java. C# is designed to work with Microsoft's . Net platform.",
+        "img": "/skills/c#.png"
+    },
+    "13": {
+        "title": "Flutter",
+        "i": "Flutter means to move back and forth rapidly. Flags flutter in the wind. Leaves flutter to the ground. Flutter also exists as a noun—you might feel a flutter in your heart when you're excited.",
+        "img": "/skills/flutter.png"
+    },
+    "14": {
+        "title": "Vue.js",
+        "i": "Vue.js is one of those new software technologies that are being widely used across the world for web development. Vue.js is actually a JavaScript framework with various optional tools for building user interfaces.",
+        "img": "/skills/vue.js.png"
+    },
+    "15": {
+        "title": "C",
+        "i": "C (/siː/, as in the letter c) is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, while a static type system prevents unintended operations.",
+        "img": "/skills/c.png"
+    }
+}
